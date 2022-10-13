@@ -1,0 +1,3 @@
+bot.session*
+__pycache__/
+config.py
